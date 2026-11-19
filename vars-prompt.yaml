@@ -3,7 +3,7 @@
   vars_promt:
   - name: COURSE
     prompt: please enter the course name
-  - name: Duration
+  - name: DURATION
     prompt: please enter the Duration
   - name: TRAINER
     prompt: please enter the trainer
